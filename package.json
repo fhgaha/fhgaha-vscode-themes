@@ -1,0 +1,21 @@
+{
+  "name": "fhgaha-vscode-themes",
+  "displayName": "fhgaha-vscode-themes",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ayu-mirage-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ayu-mirage-dark-color-theme.json"
+      }
+    ]
+  }
+}
