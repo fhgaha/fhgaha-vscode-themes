@@ -22,14 +22,9 @@
         "path": "./themes/ayu-mirage-dark-color-theme.json"
       },
       {
-        "label": "should-work",
-        "uiTheme": "vs",
-        "path": "./themes/should-work.jsonc"
-      },
-      {
         "label": "godot-4-solarized-color-theme",
         "uiTheme": "vs",
-        "path": "./themes/godot-4-solarized_light-color-theme.jsonc"
+        "path": "./themes/godot-4-solarized_light-color-theme.json"
       },
       {
         "label": "vs-2019-flat-dark-color-theme",
