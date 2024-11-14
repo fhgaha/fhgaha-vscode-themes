@@ -1,8 +1,13 @@
 {
   "name": "fhgaha-vscode-themes",
   "displayName": "fhgaha-vscode-themes",
-  "description": "",
-  "version": "0.0.1",
+  "description": "Some themes I customized for my usage",
+  "version": "0.1.1",
+  "repository": {
+    "url": "https://github.com/fhgaha/fhgaha-vscode-themes"
+  },
+  "publisher": "fhgaha",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -15,6 +20,16 @@
         "label": "ayu-mirage-dark",
         "uiTheme": "vs-dark",
         "path": "./themes/ayu-mirage-dark-color-theme.json"
+      },
+      {
+        "label": "godot-4-solarized-color-theme",
+        "uiTheme": "vs",
+        "path": "./themes/godot-4-solarized-color-theme.json"
+      },
+      {
+        "label": "vs-2019-flat-dark-color-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vs-2019-flat-dark-color-theme.json"
       }
     ]
   }
