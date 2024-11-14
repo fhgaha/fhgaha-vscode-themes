@@ -2,11 +2,8 @@
   "name": "fhgaha-vscode-themes",
   "displayName": "fhgaha-vscode-themes",
   "description": "Some themes I customized for my usage",
-  "version": "0.1.2",
-  "repository": {
-    "url": "https://github.com/fhgaha/fhgaha-vscode-themes"
-  },
-  "publisher": "fhgaha",
+  "version": "0.1.3",
+  "repository": "https://github.com/fhgaha/fhgaha-vscode-themes",
   "license": "MIT",
   "engines": {
     "vscode": "^1.95.0"

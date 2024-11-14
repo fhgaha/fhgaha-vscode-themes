@@ -1,13 +1,13 @@
 # fhgaha-vscode-themes
 
 ## ayu-mirage-dark
-![](https://github.com/fhgaha/fhgaha-vscode-themes/blob/main/github/ayu-mirage-dark-color-theme.png)
+![](./github/ayu-mirage-dark-color-theme.png)
 
 ## godot-4-solarized_light
-![](https://github.com/fhgaha/fhgaha-vscode-themes/blob/main/github/godot-4-solarized_light-color-theme.png)
+![](./github/godot-4-solarized_light-color-theme.png)
 
 ## vs-2019-flat-dark
-![](https://github.com/fhgaha/fhgaha-vscode-themes/blob/main/github/vs-2019-flat-dark-color-theme.png)
+![](./github/vs-2019-flat-dark-color-theme.png)
 
 ## Installation
 Install by name like any other vscode extension or
