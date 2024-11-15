@@ -3,7 +3,7 @@
 ## ayu-mirage-dark
 ![](./github/ayu-mirage-dark-color-theme.png)
 
-## godot-4-solarized_light
+## godot-4-solarized-light
 ![](./github/godot-4-solarized_light-color-theme.png)
 
 ## vs-2019-flat-dark
